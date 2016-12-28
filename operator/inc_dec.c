@@ -15,6 +15,6 @@ int main()
 	d=i++ + i++;
 	i=0;
 
-	printf("%d,%d,%d,%d\r",a,b,c,d);
+	printf("%d,%d,%d,%d\n",a,b,c,d);
 	return	0;
 }
