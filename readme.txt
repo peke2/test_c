@@ -1,13 +1,13 @@
 (2016.12.12)
-C/C++“®ìŠm”FŠÂ‹«B
+C/C++å‹•ä½œç¢ºèªç’°å¢ƒã€‚
 
-ƒRƒ“ƒpƒCƒ‹‚ÍŠeƒfƒBƒŒƒNƒgƒŠ“à‚©‚çŽÀsB
+ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã¯å„ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªå†…ã‹ã‚‰å®Ÿè¡Œã€‚
 $ cd construct
 $ ../mk.sh construct.cpp
 
 mk.sh
-	ƒRƒ“ƒpƒCƒ‹‚µ‚Ä
-		<“ü—Íƒtƒ@ƒCƒ‹–¼>.exe
-	‚ð“f‚«o‚·‚¾‚¯‚ÌƒVƒFƒ‹
-	‚Æ‚è‚ ‚¦‚¸AuƒRƒ“ƒpƒCƒ‹¨ŽÀsŠm”Fv‚ªo—ˆ‚é‚¾‚¯‚ÌŠÈˆÕ‚È‚à‚Ì
+	ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã—ã¦
+		<å…¥åŠ›ãƒ•ã‚¡ã‚¤ãƒ«å>.exe
+	ã‚’åãå‡ºã™ã ã‘ã®ã‚·ã‚§ãƒ«
+	ã¨ã‚Šã‚ãˆãšã€ã€Œã‚³ãƒ³ãƒ‘ã‚¤ãƒ«â†’å®Ÿè¡Œç¢ºèªã€ãŒå‡ºæ¥ã‚‹ã ã‘ã®ç°¡æ˜“ãªã‚‚ã®
 
