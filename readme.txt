@@ -3,9 +3,9 @@ C/C++動作確認環境。
 
 コンパイルは各ディレクトリ内から実行。
 $ cd construct
-$ ../mk.sh construct.cpp
+$ ../compile.sh construct.cpp
 
-mk.sh
+compile.sh
 	コンパイルして
 		<入力ファイル名>.exe
 	を吐き出すだけのシェル
